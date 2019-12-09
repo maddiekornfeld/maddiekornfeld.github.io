@@ -1,0 +1,59 @@
+body {
+  font-family: 'Arial', sans-serif;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1 {
+  font-size:47px;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+font-size: 1.0em;
+line-height: 1.4em;
+}
+
+.imagecontainer {
+  width: 33%;
+  float: left;
+  border: 5px solid white;
+  box-sizing: border-box;
+  padding-right: 30px;
+}
+
+.imagecontainer2 {
+width: 45%;
+float: right;
+border: 5px solid white;
+box-sizing: border-box;
+padding-right: 30px;
+
+}
+
+.imagecontainer3 {
+width: 30%;
+float: left;
+border: 5px solid white;
+box-sizing: border-box;
+padding-right: 30px;
+
+}
+
+.imagecontainer4 {
+  width: 45%;
+  float: right;
+  border: 5px solid white;
+  box-sizing: border-box;
+  padding-left: 30px;
+
+}
+
+.caption {
+font-size: 13px;
+
+}
